@@ -12,4 +12,4 @@ Use <b>npm start</b> para iniciar a aplicação. [PT-BR]
 
 # Front-end
 The front-end is in the repository shoe-store-frontend of this profile. [EN] <br><br>
-O front-end está no repistório shoe-store-frontend desse perfil. [PT-BR]
+O front-end está no repositório shoe-store-frontend desse perfil. [PT-BR]
